@@ -1,0 +1,6 @@
+    steps:
+    - name: Checkout submodules
+      uses: actions/checkout@v3
+      with:
+        submodules: recursive
+        token: ${{ secrets.ACTION_TOKEN }}
