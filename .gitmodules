@@ -1,3 +1,0 @@
-[submodule "submodule-test-private"]
-	path = submodule-test-private
-	url = https://github.com/kimseongmin0301/submodule-test-private.git
